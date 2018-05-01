@@ -1,0 +1,52 @@
+If you have basic idea and understanding about AI thats great but if you think that you need to study a little bit about AI then go for the AI course
+
+
+0. Artificial Intelligence(AI)  https://courses.edx.org/courses/course-v1:ColumbiaX+CSMM.101x+2T2017_2/course/
+
+
+I you have enough know of AI then start learning from the following courses
+
+
+1. Neural Networks and Deep Learning https://www.coursera.org/learn/neural-networks-deep-learning
+
+2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization https://www.coursera.org/learn/deep-neural-network
+
+
+3. Structuring Machine Learning Projects  https://www.coursera.org/learn/machine-learning-projects 
+
+
+4. Convolutional Neural Networks https://www.coursera.org/learn/convolutional-neural-networks
+
+
+
+
+Python:
+
+start learning python using this course or any materials you like
+
+1. Introduction to Data Science in Python  https://www.coursera.org/learn/python-data-analysis
+
+
+2. Applied Plotting, Charting & Data Representation in Python https://www.coursera.org/learn/python-plotting
+
+
+
+When you register for any of the courses above, select Audit 
+
+
+
+Software Installation
+
+Install python 3.6.3 (not python 2)
+
+https://www.python.org/downloads/release/python-363/
+
+
+Install Anaconda framework of python for AI and Data Science
+
+https://www.anaconda.com/download/#windows
+
+
+Install Jupyter Notebook where you will actually code and run
+
+http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/install.html
